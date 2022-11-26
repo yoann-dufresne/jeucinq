@@ -1,0 +1,3 @@
+[submodule "wifi_manager"]
+	path = wifi_manager
+	url = git@github.com:yoann-dufresne/wifi_esp32.git

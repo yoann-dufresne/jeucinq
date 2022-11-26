@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="378.68mm"
+   height="174.99mm"
+   viewBox="0.0 0.0 378.68 174.99"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="octogone_5mm.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs42" />
+  <sodipodi:namedview
+     id="namedview40"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2371132"
+     inkscape:cx="860.47096"
+     inkscape:cy="206.12503"
+     inkscape:window-width="3072"
+     inkscape:window-height="1659"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <!--
+RegularBox - Box with regular polygon as base
+
+
+For short side walls that don't fit a connecting finger reduce *surroundingspaces* and *finger* in the Finger Joint Settings.
+
+The lids needs to be glued. For the bayonet lid all outside rings attach to the bottom, all inside rings to the top.
+
+
+
+Created with Boxes.py (https://festi.info/boxes.py)
+Creation date: 2022-11-24 13:45:28
+Command line (remove spaces between dashes): boxes RegularBox - -FingerJoint_angle=90.0 - -FingerJoint_style=rectangular - -FingerJoint_surroundingspaces=1.0 - -FingerJoint_edge_width=1.0 - -FingerJoint_extra_length=0.0 - -FingerJoint_finger=2.0 - -FingerJoint_play=0.0 - -FingerJoint_space=2.0 - -FingerJoint_width=1.0 - -h=32 - -outside=0 - -radius=50.0 - -n=8 - -top=none - -alignment_pins=1.0 - -thickness=5 - -format=svg - -tabs=0.0 - -debug=0 - -labels=0 - -labels=1 - -reference=100 - -inner_corners=loop - -burn=0.1
+Url: http://www.festi.info/RegularBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=1.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.0&FingerJoint_space=2.0&FingerJoint_width=1.0&h=32&outside=0&radius=50.0&n=8&top=none&alignment_pins=1.0&thickness=5&format=svg&tabs=0.0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&render=1
+SettingsUrl: http://www.festi.info/RegularBox?FingerJoint_angle=90.0&FingerJoint_style=rectangular&FingerJoint_surroundingspaces=1.0&FingerJoint_edge_width=1.0&FingerJoint_extra_length=0.0&FingerJoint_finger=2.0&FingerJoint_play=0.0&FingerJoint_space=2.0&FingerJoint_width=1.0&h=32&outside=0&radius=50.0&n=8&top=none&alignment_pins=1.0&thickness=5&format=svg&tabs=0.0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1
+-->
+  <title
+     id="title2">RegularBox</title>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:title>Box - RegularBox</dc:title>
+        <dc:date>2022-11-24 13:45:28</dc:date>
+        <dc:source>http://www.festi.info/RegularBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=1.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;h=32&amp;outside=0&amp;radius=50.0&amp;n=8&amp;top=none&amp;alignment_pins=1.0&amp;thickness=5&amp;format=svg&amp;tabs=0.0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;render=1</dc:source>
+        <dc:description>Box with regular polygon as base
+
+For short side walls that don't fit a connecting finger reduce *surroundingspaces* and *finger* in the Finger Joint Settings.
+
+The lids needs to be glued. For the bayonet lid all outside rings attach to the bottom, all inside rings to the top.
+
+
+Created with Boxes.py (https://festi.info/boxes.py)
+Command line: boxes RegularBox --FingerJoint_angle=90.0 --FingerJoint_style=rectangular --FingerJoint_surroundingspaces=1.0 --FingerJoint_edge_width=1.0 --FingerJoint_extra_length=0.0 --FingerJoint_finger=2.0 --FingerJoint_play=0.0 --FingerJoint_space=2.0 --FingerJoint_width=1.0 --h=32 --outside=0 --radius=50.0 --n=8 --top=none --alignment_pins=1.0 --thickness=5 --format=svg --tabs=0.0 --debug=0 --labels=0 --labels=1 --reference=100 --inner_corners=loop --burn=0.1
+Url: http://www.festi.info/RegularBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=1.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;h=32&amp;outside=0&amp;radius=50.0&amp;n=8&amp;top=none&amp;alignment_pins=1.0&amp;thickness=5&amp;format=svg&amp;tabs=0.0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;render=1
+SettingsUrl: http://www.festi.info/RegularBox?FingerJoint_angle=90.0&amp;FingerJoint_style=rectangular&amp;FingerJoint_surroundingspaces=1.0&amp;FingerJoint_edge_width=1.0&amp;FingerJoint_extra_length=0.0&amp;FingerJoint_finger=2.0&amp;FingerJoint_play=0.0&amp;FingerJoint_space=2.0&amp;FingerJoint_width=1.0&amp;h=32&amp;outside=0&amp;radius=50.0&amp;n=8&amp;top=none&amp;alignment_pins=1.0&amp;thickness=5&amp;format=svg&amp;tabs=0.0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1
+</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="p-1"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#0000ff;stroke-opacity:1">
+    <path
+       d="M 42.460 152.288 H 56.594 C 56.649 152.288 56.694 152.243 56.694 152.188 V 147.288 C 56.694 147.188 56.594 147.288 56.694 147.288 H 66.494 C 66.594 147.288 66.494 147.188 66.494 147.288 V 152.188 C 66.494 152.243 66.539 152.288 66.594 152.288 H 80.728 H 82.799 C 82.826 152.288 82.851 152.277 82.870 152.259 L 84.334 150.794 L 94.329 140.800 C 94.368 140.761 94.368 140.697 94.329 140.658 L 90.864 137.194 C 90.793 137.123 90.793 137.264 90.864 137.194 L 97.794 130.264 C 97.864 130.193 97.723 130.193 97.794 130.264 L 101.258 133.729 C 101.297 133.768 101.361 133.768 101.400 133.729 L 111.394 123.734 L 112.859 122.270 C 112.877 122.251 112.888 122.226 112.888 122.199 V 120.128 V 105.994 C 112.888 105.939 112.843 105.894 112.788 105.894 H 107.888 C 107.788 105.894 107.888 105.994 107.888 105.894 V 96.094 C 107.888 95.994 107.788 96.094 107.888 96.094 H 112.788 C 112.843 96.094 112.888 96.049 112.888 95.994 V 81.860 V 79.789 C 112.888 79.762 112.877 79.737 112.859 79.718 L 111.394 78.254 L 101.400 68.259 C 101.361 68.220 101.297 68.220 101.258 68.259 L 97.794 71.724 C 97.723 71.795 97.864 71.795 97.794 71.724 L 90.864 64.794 C 90.793 64.724 90.793 64.865 90.864 64.794 L 94.329 61.330 C 94.368 61.290 94.368 61.227 94.329 61.188 L 84.334 51.194 L 82.870 49.729 C 82.851 49.711 82.826 49.700 82.799 49.700 H 80.728 H 66.594 C 66.539 49.700 66.494 49.745 66.494 49.800 V 54.700 C 66.494 54.800 66.594 54.700 66.494 54.700 H 56.694 C 56.594 54.700 56.694 54.800 56.694 54.700 V 49.800 C 56.694 49.745 56.649 49.700 56.594 49.700 H 42.460 H 40.389 C 40.362 49.700 40.337 49.711 40.318 49.729 L 38.854 51.194 L 28.859 61.188 C 28.820 61.227 28.820 61.290 28.859 61.330 L 32.324 64.794 C 32.395 64.865 32.395 64.724 32.324 64.794 L 25.394 71.724 C 25.324 71.795 25.465 71.795 25.394 71.724 L 21.930 68.259 C 21.890 68.220 21.827 68.220 21.788 68.259 L 11.794 78.254 L 10.329 79.718 C 10.311 79.737 10.300 79.762 10.300 79.789 V 81.860 V 95.994 C 10.300 96.049 10.345 96.094 10.400 96.094 H 15.300 C 15.400 96.094 15.300 95.994 15.300 96.094 V 105.894 C 15.300 105.994 15.400 105.894 15.300 105.894 H 10.400 C 10.345 105.894 10.300 105.939 10.300 105.994 V 120.128 V 122.199 C 10.300 122.226 10.311 122.251 10.329 122.270 L 11.794 123.734 L 21.788 133.729 C 21.827 133.768 21.890 133.768 21.930 133.729 L 25.394 130.264 C 25.465 130.193 25.324 130.193 25.394 130.264 L 32.324 137.194 C 32.395 137.264 32.395 137.123 32.324 137.194 L 28.859 140.658 C 28.820 140.697 28.820 140.761 28.859 140.800 L 38.854 150.794 L 40.318 152.259 C 40.337 152.277 40.362 152.288 40.389 152.288 H 42.460 Z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.20"
+       id="path11"
+       style="stroke:#0000ff;stroke-opacity:1" />
+  </g>
+  <g
+     id="p-2"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#0000ff;stroke-opacity:1">
+    <path
+       d="M 12.471 42.200 H 26.505 C 26.605 42.200 26.505 42.100 26.505 42.200 V 47.100 C 26.505 47.155 26.550 47.200 26.605 47.200 H 36.605 C 36.660 47.200 36.705 47.155 36.705 47.100 V 42.200 C 36.705 42.100 36.605 42.200 36.705 42.200 H 50.739 H 52.810 C 52.866 42.200 52.910 42.155 52.910 42.100 V 31.100 C 52.910 31.045 52.866 31.000 52.810 31.000 H 49.375 C 49.275 31.000 49.375 31.100 49.375 31.000 V 21.200 C 49.375 21.100 49.275 21.200 49.375 21.200 H 52.810 C 52.866 21.200 52.910 21.155 52.910 21.100 V 10.100 C 52.910 10.045 52.866 10.000 52.810 10.000 H 50.739 H 12.471 H 10.400 C 10.345 10.000 10.300 10.045 10.300 10.100 V 21.100 C 10.300 21.155 10.345 21.200 10.400 21.200 H 13.836 C 13.936 21.200 13.836 21.100 13.836 21.200 V 31.000 C 13.836 31.100 13.936 31.000 13.836 31.000 H 10.400 C 10.345 31.000 10.300 31.045 10.300 31.100 V 42.100 C 10.300 42.155 10.345 42.200 10.400 42.200 H 12.471 Z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.20"
+       id="path14"
+       style="stroke:#0000ff;stroke-opacity:1" />
+  </g>
+  <g
+     id="p-3"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#0000ff;stroke-opacity:1">
+    <path
+       d="M 57.582 42.200 H 71.616 C 71.716 42.200 71.616 42.100 71.616 42.200 V 47.100 C 71.616 47.155 71.660 47.200 71.716 47.200 H 81.716 C 81.771 47.200 81.816 47.155 81.816 47.100 V 42.200 C 81.816 42.100 81.716 42.200 81.816 42.200 H 95.850 H 94.385 C 94.441 42.200 94.485 42.155 94.485 42.100 V 31.200 C 94.485 31.100 94.385 31.200 94.485 31.200 H 97.921 C 97.976 31.200 98.021 31.155 98.021 31.100 V 21.100 C 98.021 21.045 97.976 21.000 97.921 21.000 H 94.485 C 94.385 21.000 94.485 21.100 94.485 21.000 V 10.100 C 94.485 10.045 94.441 10.000 94.385 10.000 H 95.850 H 57.582 H 59.046 C 58.991 10.000 58.946 10.045 58.946 10.100 V 21.000 C 58.946 21.100 59.046 21.000 58.946 21.000 H 55.510 C 55.455 21.000 55.410 21.045 55.410 21.100 V 31.100 C 55.410 31.155 55.455 31.200 55.510 31.200 H 58.946 C 59.046 31.200 58.946 31.100 58.946 31.200 V 42.100 C 58.946 42.155 58.991 42.200 59.046 42.200 H 57.582 Z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.20"
+       id="path17"
+       style="stroke:#0000ff;stroke-opacity:1" />
+  </g>
+  <g
+     id="p-4"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#0000ff;stroke-opacity:1">
+    <path
+       d="M 102.692 42.200 H 116.726 C 116.826 42.200 116.726 42.100 116.726 42.200 V 47.100 C 116.726 47.155 116.771 47.200 116.826 47.200 H 126.826 C 126.881 47.200 126.926 47.155 126.926 47.100 V 42.200 C 126.926 42.100 126.826 42.200 126.926 42.200 H 140.960 H 143.031 C 143.087 42.200 143.131 42.155 143.131 42.100 V 31.100 C 143.131 31.045 143.087 31.000 143.031 31.000 H 139.596 C 139.496 31.000 139.596 31.100 139.596 31.000 V 21.200 C 139.596 21.100 139.496 21.200 139.596 21.200 H 143.031 C 143.087 21.200 143.131 21.155 143.131 21.100 V 10.100 C 143.131 10.045 143.087 10.000 143.031 10.000 H 140.960 H 102.692 H 100.621 C 100.566 10.000 100.521 10.045 100.521 10.100 V 21.100 C 100.521 21.155 100.566 21.200 100.621 21.200 H 104.056 C 104.156 21.200 104.056 21.100 104.056 21.200 V 31.000 C 104.056 31.100 104.156 31.000 104.056 31.000 H 100.621 C 100.566 31.000 100.521 31.045 100.521 31.100 V 42.100 C 100.521 42.155 100.566 42.200 100.621 42.200 H 102.692 Z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.20"
+       id="path20"
+       style="stroke:#0000ff;stroke-opacity:1" />
+  </g>
+  <g
+     id="p-5"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#0000ff;stroke-opacity:1">
+    <path
+       d="M 147.803 42.200 H 161.837 C 161.937 42.200 161.837 42.100 161.837 42.200 V 47.100 C 161.837 47.155 161.881 47.200 161.937 47.200 H 171.937 C 171.992 47.200 172.037 47.155 172.037 47.100 V 42.200 C 172.037 42.100 171.937 42.200 172.037 42.200 H 186.071 H 184.606 C 184.662 42.200 184.706 42.155 184.706 42.100 V 31.200 C 184.706 31.100 184.606 31.200 184.706 31.200 H 188.142 C 188.197 31.200 188.242 31.155 188.242 31.100 V 21.100 C 188.242 21.045 188.197 21.000 188.142 21.000 H 184.706 C 184.606 21.000 184.706 21.100 184.706 21.000 V 10.100 C 184.706 10.045 184.662 10.000 184.606 10.000 H 186.071 H 147.803 H 149.267 C 149.212 10.000 149.167 10.045 149.167 10.100 V 21.000 C 149.167 21.100 149.267 21.000 149.167 21.000 H 145.731 C 145.676 21.000 145.631 21.045 145.631 21.100 V 31.100 C 145.631 31.155 145.676 31.200 145.731 31.200 H 149.167 C 149.267 31.200 149.167 31.100 149.167 31.200 V 42.100 C 149.167 42.155 149.212 42.200 149.267 42.200 H 147.803 Z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.20"
+       id="path23"
+       style="stroke:#0000ff;stroke-opacity:1" />
+  </g>
+  <g
+     id="p-6"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#0000ff;stroke-opacity:1">
+    <path
+       d="M 192.913 42.200 H 206.947 C 207.047 42.200 206.947 42.100 206.947 42.200 V 47.100 C 206.947 47.155 206.992 47.200 207.047 47.200 H 217.047 C 217.102 47.200 217.147 47.155 217.147 47.100 V 42.200 C 217.147 42.100 217.047 42.200 217.147 42.200 H 231.181 H 233.252 C 233.308 42.200 233.352 42.155 233.352 42.100 V 31.100 C 233.352 31.045 233.308 31.000 233.252 31.000 H 229.817 C 229.717 31.000 229.817 31.100 229.817 31.000 V 21.200 C 229.817 21.100 229.717 21.200 229.817 21.200 H 233.252 C 233.308 21.200 233.352 21.155 233.352 21.100 V 10.100 C 233.352 10.045 233.308 10.000 233.252 10.000 H 231.181 H 192.913 H 190.842 C 190.787 10.000 190.742 10.045 190.742 10.100 V 21.100 C 190.742 21.155 190.787 21.200 190.842 21.200 H 194.277 C 194.377 21.200 194.277 21.100 194.277 21.200 V 31.000 C 194.277 31.100 194.377 31.000 194.277 31.000 H 190.842 C 190.787 31.000 190.742 31.045 190.742 31.100 V 42.100 C 190.742 42.155 190.787 42.200 190.842 42.200 H 192.913 Z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.20"
+       id="path26"
+       style="stroke:#0000ff;stroke-opacity:1" />
+  </g>
+  <g
+     id="p-7"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#0000ff;stroke-opacity:1">
+    <path
+       d="M 238.023 42.200 H 252.058 C 252.158 42.200 252.058 42.100 252.058 42.200 V 47.100 C 252.058 47.155 252.102 47.200 252.158 47.200 H 262.158 C 262.213 47.200 262.258 47.155 262.258 47.100 V 42.200 C 262.258 42.100 262.158 42.200 262.258 42.200 H 276.292 H 274.827 C 274.883 42.200 274.927 42.155 274.927 42.100 V 31.200 C 274.927 31.100 274.827 31.200 274.927 31.200 H 278.363 C 278.418 31.200 278.463 31.155 278.463 31.100 V 21.100 C 278.463 21.045 278.418 21.000 278.363 21.000 H 274.927 C 274.827 21.000 274.927 21.100 274.927 21.000 V 10.100 C 274.927 10.045 274.883 10.000 274.827 10.000 H 276.292 H 238.023 H 239.488 C 239.433 10.000 239.388 10.045 239.388 10.100 V 21.000 C 239.388 21.100 239.488 21.000 239.388 21.000 H 235.952 C 235.897 21.000 235.852 21.045 235.852 21.100 V 31.100 C 235.852 31.155 235.897 31.200 235.952 31.200 H 239.388 C 239.488 31.200 239.388 31.100 239.388 31.200 V 42.100 C 239.388 42.155 239.433 42.200 239.488 42.200 H 238.023 Z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.20"
+       id="path29"
+       style="stroke:#0000ff;stroke-opacity:1" />
+  </g>
+  <g
+     id="p-8"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#0000ff;stroke-opacity:1">
+    <path
+       d="M 283.134 42.200 H 297.168 C 297.268 42.200 297.168 42.100 297.168 42.200 V 47.100 C 297.168 47.155 297.213 47.200 297.268 47.200 H 307.268 C 307.323 47.200 307.368 47.155 307.368 47.100 V 42.200 C 307.368 42.100 307.268 42.200 307.368 42.200 H 321.402 H 323.473 C 323.529 42.200 323.573 42.155 323.573 42.100 V 31.100 C 323.573 31.045 323.529 31.000 323.473 31.000 H 320.038 C 319.938 31.000 320.038 31.100 320.038 31.000 V 21.200 C 320.038 21.100 319.938 21.200 320.038 21.200 H 323.473 C 323.529 21.200 323.573 21.155 323.573 21.100 V 10.100 C 323.573 10.045 323.529 10.000 323.473 10.000 H 321.402 H 283.134 H 281.063 C 281.008 10.000 280.963 10.045 280.963 10.100 V 21.100 C 280.963 21.155 281.008 21.200 281.063 21.200 H 284.498 C 284.598 21.200 284.498 21.100 284.498 21.200 V 31.000 C 284.498 31.100 284.598 31.000 284.498 31.000 H 281.063 C 281.008 31.000 280.963 31.045 280.963 31.100 V 42.100 C 280.963 42.155 281.008 42.200 281.063 42.200 H 283.134 Z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.20"
+       id="path32"
+       style="stroke:#0000ff;stroke-opacity:1" />
+  </g>
+  <g
+     id="p-9"
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#0000ff;stroke-opacity:1">
+    <path
+       d="M 328.244 42.200 H 342.279 C 342.379 42.200 342.279 42.100 342.279 42.200 V 47.100 C 342.279 47.155 342.323 47.200 342.379 47.200 H 352.379 C 352.434 47.200 352.479 47.155 352.479 47.100 V 42.200 C 352.479 42.100 352.379 42.200 352.479 42.200 H 366.513 H 365.048 C 365.104 42.200 365.148 42.155 365.148 42.100 V 31.200 C 365.148 31.100 365.048 31.200 365.148 31.200 H 368.584 C 368.639 31.200 368.684 31.155 368.684 31.100 V 21.100 C 368.684 21.045 368.639 21.000 368.584 21.000 H 365.148 C 365.048 21.000 365.148 21.100 365.148 21.000 V 10.100 C 365.148 10.045 365.104 10.000 365.048 10.000 H 366.513 H 328.244 H 329.709 C 329.654 10.000 329.609 10.045 329.609 10.100 V 21.000 C 329.609 21.100 329.709 21.000 329.609 21.000 H 326.173 C 326.118 21.000 326.073 21.045 326.073 21.100 V 31.100 C 326.073 31.155 326.118 31.200 326.173 31.200 H 329.609 C 329.709 31.200 329.609 31.100 329.609 31.200 V 42.100 C 329.609 42.155 329.654 42.200 329.709 42.200 H 328.244 Z"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.20"
+       id="path35"
+       style="stroke:#0000ff;stroke-opacity:1" />
+  </g>
+  <rect
+     style="fill:none;stroke:#ff0000;stroke-width:0.264584;stroke-opacity:1"
+     id="rect932"
+     width="21.735416"
+     height="11.735415"
+     x="65.847794"
+     y="10.032292" />
+  <rect
+     style="fill:none;stroke:#ff0000;stroke-width:0.264584;stroke-opacity:1"
+     id="rect986"
+     width="21.735416"
+     height="11.735415"
+     x="156.06879"
+     y="10.032292" />
+  <rect
+     style="fill:none;stroke:#ff0000;stroke-width:0.264584;stroke-opacity:1"
+     id="rect988"
+     width="21.735416"
+     height="11.735415"
+     x="246.28979"
+     y="10.032292" />
+  <rect
+     style="fill:none;stroke:#ff0000;stroke-width:0.264584;stroke-opacity:1"
+     id="rect990"
+     width="21.735416"
+     height="11.735415"
+     x="336.5108"
+     y="10.032292" />
+</svg>
