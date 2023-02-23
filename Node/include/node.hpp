@@ -5,6 +5,14 @@
 #define NODE_H
 
 
+static const String color_names[] = {"red", "green", "blue"};
+static const int colors[][3] = {
+        {15, 0, 0},
+        {0, 15, 0},
+        {0, 0, 15}
+    };
+
+
 class Node
 {public:
     static const int NUM_LEDS_STRIP = 24;
@@ -25,6 +33,29 @@ class Node
         FastLED.addLeds<NEOPIXEL, dataPinRight>(leds_right, NUM_LEDS_STRIP);
         FastLED.addLeds<NEOPIXEL, dataPinRing>(leds_ring, NUM_LEDS_RING);
     };
+
+    void color_led(const String &device, const int num, const int colorid){
+        // Device choice
+        CRGB * device_array = nullptr;
+        if (device=="ring") { device_array = leds_ring; }
+        else if (device == "top") { device_array = leds_top; }
+        else { device_array = leds_right; }
+
+        // Color choice
+        int r = colors[colorid % sizeof(colors)][0];
+        int g = colors[colorid % sizeof(colors)][1];
+        int b = colors[colorid % sizeof(colors)][2];
+
+        // Filling
+        device_array[num].r = r; device_array[num].g = g; device_array[num].b = b;
+    }
+
+
+    void show()
+    {
+        FastLED.show();
+    }
+
 
     void color_all(int r, int g, int b)
     {

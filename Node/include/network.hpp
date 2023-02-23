@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <string.h>
 #include <WiFiManager.h>
 #include <ESPAsyncWebServer.h>
 #include "node.hpp"
@@ -53,9 +54,24 @@ public:
             request->send_P(200, "text/plain", "blink");
         });
         
+        // /color?d=ring&num=0&color=red
+
+        this->server->on("/color", HTTP_GET, [&](AsyncWebServerRequest *request){
+            int params = request->params();
+
+            String device = request->getParam(0)->value().c_str();
+            int num = atoi(request->getParam(1)->value().c_str());
+            int colorid = atoi(request->getParam(2)->value().c_str());
+
+            node->color_led(device, num, colorid);
+            node->show();
+            request->send_P(200, "text/plain", "color");
+        });
+        
         // Start server
         this->server->begin();/**/
                 
     }
 };
 #endif
+
